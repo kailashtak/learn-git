@@ -7,4 +7,5 @@ trying to earn a YOLO Badge 2nd time
 
 
 
-8/2/26
+8/2/26 -1
+8/2/26 -2
